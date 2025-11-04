@@ -14,7 +14,7 @@ I’m a backend developer expanding into full-stack development. I build reusabl
   - j2v8 Plugin – Embedded JS runtime in Android for game-level content, reduced server costs 80%
 
 ### 📊 GitHub Stats
-![abdulrahimsulthan's Stats](https://github-readme-stats.vercel.app/api?username=abdulrahimsulthan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![abdulrahimsulthan's Stats](https://github-readme-stats.vercel.app/api?username=abdulrahimsulthan&cardType=github&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
 ![abdulrahimsulthan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahimsulthan&theme=vue-dark&hide_border=true)
 <br>
