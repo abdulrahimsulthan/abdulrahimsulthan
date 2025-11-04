@@ -1,4 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Rahim S
+
+I’m a backend developer expanding into full-stack development. I build reusable backend components and plugins that make development faster and systems easier to maintain.
+
+🧠 **Languages & Frameworks:** JavaScript, TypeScript, Node.js, Express, React, React Native  
+🗄️ **Databases:** MongoDB, PostgreSQL, Firebase  
+☁️ **Cloud & Tools:** AWS (S3, Lambda), Docker, Git, Jest, CI/CD  
+⚙️ **Currently learning:** Advanced System Design & Frontend Architecture  
+
+### 🚀 Featured Projects
+- [Ostrich Talks](https://github.com/abdulrahimsulthan/ostrich-talks-mobile) – Character-driven learning platform built with React Native + Node.js  
+- [Express Resources Plugin](https://github.com/abdulrahimsulthan) – Reusable backend DSL, improved delivery speed 5×  
+- [j2v8 Plugin](https://github.com/eclipsesource/J2V8) – Embedded JS runtime in Android for game-level content, reduced server costs 80%
+
+### 📊 GitHub Stats
+![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahimsulthan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahimsulthan&layout=compact&theme=radical)
+
+### 🤝 Connect
+💬 Ask me about backend systems, Node.js, or system design  
+📫 **abdulrahim.sulthan01@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahimsulthan)
+
 
 <!--
 **abdulrahimsulthan/abdulrahimsulthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
