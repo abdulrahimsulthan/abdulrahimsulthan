@@ -14,13 +14,11 @@ I’m a backend developer expanding into full-stack development. I build reusabl
   - j2v8 Plugin – Embedded JS runtime in Android for game-level content, reduced server costs 80%
 
 ### 📊 GitHub Stats
-![abdulrahimsulthan's Stats](https://github-contribution-stats.vercel.app/api?username=abdulrahimsulthan&cardType=github&theme=vue-dark&hide_border=true&count_private=tru&layout=compact)
+![abdulrahimsulthan's Stats](https://github-readme-stats.vercel.app/api?username=abdulrahimsulthan&cardType=github&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
-![abdulrahimsulthan's Stats](https://github-readme-stats.vercel.app/api?username=abdulrahimsulthan&cardType=github&show_icons=true&hide_border=true&count_private=true)
+![abdulrahimsulthan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahimsulthan&theme=vue-dark&hide_border=true)
 <br>
-![abdulrahimsulthan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahimsulthan&hide_border=true)
-<br>
-![abdulrahimsulthan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahimsulthan&show_icons=true&hide_border=true&layout=compact)
+![abdulrahimsulthan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahimsulthan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🤝 Connect
 💬 Ask me about backend systems, Node.js, or system design  
