@@ -9,8 +9,9 @@ I’m a backend developer expanding into full-stack development. I build reusabl
 
 ### 🚀 Featured Projects
 - [Ostrich Talks](https://github.com/abdulrahimsulthan/ostrich-talks-mobile) – Character-driven learning platform built with React Native + Node.js  
-- [Express Resources Plugin](https://github.com/abdulrahimsulthan) – Reusable backend DSL, improved delivery speed 5×  
-- [j2v8 Plugin](https://github.com/eclipsesource/J2V8) – Embedded JS runtime in Android for game-level content, reduced server costs 80%
+- Abstract Business Systems Pvt Ltd (In-House Plugins)
+  - Express Resources Plugin – Reusable backend DSL, improved delivery speed 5×  
+  - j2v8 Plugin – Embedded JS runtime in Android for game-level content, reduced server costs 80%
 
 ### 📊 GitHub Stats
 ![abdulrahimsulthan's Stats](https://github-readme-stats.vercel.app/api?username=abdulrahimsulthan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
